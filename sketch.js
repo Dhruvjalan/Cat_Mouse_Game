@@ -7,7 +7,7 @@ function preload() {
     backgroundload = loadImage("garden.png");
     catloadm = loadAnimation( "tomTwo.png" ,"tomThree.png"); // ,"tomThree.png"
   catloadS = loadImage("tomFour.png");
-   catloads = loadImage("images/tomOne.png");
+   catloads = loadImage("tomOne.png");
    mouseloadm = loadAnimation("jerryTwo.png" ,"jerryThree.png"); // ,"tomThree.png"
   mouseloadS1 = loadImage("jerryFour.png");
   mouseloads = loadImage("jerryOne.png");
